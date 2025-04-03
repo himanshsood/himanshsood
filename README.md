@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himansh Sood</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
+<br>
+<br><br>
+
 <img align="right" alt="coding" width="400" src="animated.webp" alt="himanshsood" /> </p>
 
 - 🌱 I’m currently learning **Next.js and GoLang**
