@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js and GoLang**
 
-- 👨‍💻 All of my projects are available at [https://67b95d854a60ceb9944260a6--himansh.netlify.app/](https://67b95d854a60ceb9944260a6--himansh.netlify.app/)
+- 👨‍💻 Here is my portfolio [https://67b95d854a60ceb9944260a6--himansh.netlify.app/](https://67b95d854a60ceb9944260a6--himansh.netlify.app/)
 
 - 💬 Ask me about **Java, JavaScript, SQL , React, MongoDB, Express, NodeJS**
 
